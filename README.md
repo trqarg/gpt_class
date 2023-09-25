@@ -8,6 +8,5 @@ https://www.kaggle.com/competitions/nlp-getting-started/data)https://www.kaggle.
 
 Confusion Matrix:
 
-![gpt35](https://github.com/trqarg/gpt_class/assets/7635556/9162df07-d580-4a04-9aba-75d28aa47534)
-
-![gpt4](https://github.com/trqarg/gpt_class/assets/7635556/420e3091-bd0c-42d4-9144-0ea1f8f4f029)
+![gpt35](https://github.com/trqarg/gpt_class/assets/7635556/9e914b9d-dfce-4015-b393-8a9ee4576d42)
+![gpt4](https://github.com/trqarg/gpt_class/assets/7635556/7a75ba25-751b-4bc2-aeea-4beacd9e4e52)
